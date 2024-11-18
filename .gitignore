@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__
+venv
+containers-15
+containers-16
+parsed_images
+parsed_images_cropped
+bad_iamges
+
